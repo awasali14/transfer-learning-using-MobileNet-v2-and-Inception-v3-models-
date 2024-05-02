@@ -53,8 +53,6 @@ The project outputs the training and validation accuracy and loss, which are vis
 
 The script outputs images with predictions where the predicted and true labels are displayed. Correct predictions are highlighted in blue, and incorrect ones in red, providing a quick visual assessment of the model's performance.
 
-## Conclusion
 
-This project illustrates the practical application of transfer learning for image classification tasks, providing a foundation that can be expanded to more complex and diverse datasets. It also serves as an educational tool for understanding key concepts in machine learning and deep learning.
 
 
